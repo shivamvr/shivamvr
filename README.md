@@ -4,11 +4,11 @@
 
 <h3 align="center">A Full Stack Web Developer with expertise in HTML, CSS, JavaScript, React, and Chakra UI. Skilled in creating professional and engaging web applications and passionate about continuous learning and exploring new technologies.</h3>
 <br/>
-<img align="right" alt="shivam" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
+<img align="right" alt="Shivam" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 - 🧑‍💻 **Portfolio :- https://shivamvr.github.io/**
-- 📫 How to reach me **shivamweb2.com**
+- 📫 How to reach me **shivamweb2@gmail.com**
 - 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1BE7LCiqgpW97khgbJX_JOafDHgIHv10q/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
